@@ -378,10 +378,17 @@
     }
 
 }
-@media (max-width: 492px){    
+@media (max-width: 492px){
+    .header .header-menu ul li a {
+        padding: 0px 2px;
+        font-size: 9px;
+    }
     .header .header-btn .btn {
         padding: 5px 5px;
         font-size: 13px;
         margin-top: 10px;
     }
+    .footer-section {
+        font-size: 12px;
+}
 }
