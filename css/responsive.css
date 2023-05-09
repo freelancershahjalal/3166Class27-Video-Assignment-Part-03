@@ -1,7 +1,7 @@
 @media (max-width: 1520px){
 
 }
-@media (max-width: 1299px){
+@media all and (max-width: 1299px){
     .services .services-item .services-box {
         width: 30.90%;
     }
@@ -15,7 +15,7 @@
         width: 45%;        
     }    
 }
-@media (max-width: 1180px){
+@media all and (max-width: 1180px){
     .header .header-logo {
         width: 25%;
     }    
@@ -35,7 +35,7 @@
         width: 22.50%;
     }
 }
-@media (max-width: 1140px){
+@media all and (max-width: 1140px){
     .services .services-item .services-box {
         width: 30.50%;
     }
@@ -53,7 +53,7 @@
         padding: 25px 34px;
     }
 }
-@media (max-width: 1024px){
+@media all and (max-width: 1024px){
     .banner-bottom .content-right h2 {
         font-size: 33px;        
     }
@@ -61,7 +61,7 @@
         width: 30.33%;
     }
 }
-@media (max-width: 992px){
+@media all and (max-width: 992px){
     .header .header-logo {
         width: 100%;
         text-align: center;
@@ -171,17 +171,17 @@
     }
     
 }
-@media (max-width: 982px){
+@media all and (max-width: 982px){
     .input-text-02 {
         width: 44%;
     }
 }
-@media (max-width: 823px){
+@media all and (max-width: 823px){
     .input-text-02 {
         width: 43.50%;
     }
 }
-@media (max-width: 768px){
+@media all and (max-width: 768px){
     .header .header-menu ul li a {
         padding: 0px 6px;
         font-size: 13px;
@@ -239,8 +239,7 @@
     }    
     .team .team-item .item-box {
         width: 100%;
-        margin-top: 30px;
-              
+        margin-top: 30px;              
     }
     .item-box-2 {
         margin-left: 0px;        
@@ -288,7 +287,7 @@
         width: 96%;
     }
 }
-@media (max-width: 576px){
+@media all and (max-width: 576px){
     .header .header-menu {
         width: 80%;        
     }    
@@ -378,7 +377,15 @@
     }
 
 }
-@media (max-width: 492px){
+@media all and (max-width: 492px){
+    .header .header-menu {
+        width: 100%;
+        text-align: center;
+    }
+    .header .header-btn {
+        width: 100%;
+        text-align: center;
+    }
     .header .header-menu ul li a {
         padding: 0px 2px;
         font-size: 9px;
