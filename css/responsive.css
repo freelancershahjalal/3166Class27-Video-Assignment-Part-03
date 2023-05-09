@@ -283,9 +283,9 @@
     .contact-right-form {
         width: 100%;
         margin-top: 20px;
-    }
+    }    
     .input-text-02 {
-        width: 46%;
+        width: 96%;
     }
 }
 @media (max-width: 576px){
@@ -300,7 +300,7 @@
     }
     .header .header-menu ul li a {
         padding: 0px 3px;
-        font-size: 11px;       
+        font-size: 10px;       
     }
     .header-banner .banner-content {        
         margin-top: 30px;
@@ -372,16 +372,13 @@
     .contact-right-form p {       
         line-height: 30px;
         text-align: justify;
-    }
-    .input-text-02 {
-        width: 44.50%;
-    }
+    }    
     .footer-section {        
         font-size: 13px;
     }
 
 }
-@media (max-width: 492px){
+@media (max-width: 492px){    
     .header .header-btn .btn {
         padding: 5px 5px;
         font-size: 13px;
